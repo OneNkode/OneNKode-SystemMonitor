@@ -1,4 +1,8 @@
 # NDXworks - Rendszerfigyelő Alkalmazás
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 
 **NDXworks** egy egyszerű, de hatékony parancssori rendszerfigyelő alkalmazás, amely valós időben megjeleníti a rendszer erőforrásainak állapotát és statisztikáit. A programot Python nyelven írtuk, és a PyInstaller segítségével készült egy önálló végrehajtható fájl (.exe), amely Windows rendszeren futtatható.
 
@@ -33,7 +37,7 @@
 
 ### 7. Ikon és Verzió
 - Az alkalmazás ikont tartalmaz, amely az `assets/icon.ico` fájlban található.
-- A verziószám a kijelző tetején található (`V1.1`).
+- A verziószám a kijelző tetején található (`V1.3`).
 
 ## Telepítés és Használat
 
