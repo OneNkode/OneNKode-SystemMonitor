@@ -33,7 +33,7 @@
 
 ### 7. Ikon és Verzió
 - Az alkalmazás ikont tartalmaz, amely az `assets/icon.ico` fájlban található.
-- A verziószám a kijelző tetején található (`V1.0`).
+- A verziószám a kijelző tetején található (`V1.1`).
 
 ## Telepítés és Használat
 
