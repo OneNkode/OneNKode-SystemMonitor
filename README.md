@@ -1,6 +1,6 @@
 # System-monitor-NDXworks
 
-# NDXworks
+
 
 ## Áttekintés
 
