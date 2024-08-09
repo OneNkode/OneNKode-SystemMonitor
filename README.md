@@ -2,7 +2,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-
+first install : install_dependencies.py
 
 **NDXworks** egy egyszerű, de hatékony parancssori rendszerfigyelő alkalmazás, amely valós időben megjeleníti a rendszer erőforrásainak állapotát és statisztikáit. A programot Python nyelven írtuk, és a PyInstaller segítségével készült egy önálló végrehajtható fájl (.exe), amely Windows rendszeren futtatható.
 
