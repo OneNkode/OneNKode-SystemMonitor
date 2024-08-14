@@ -42,8 +42,9 @@ first run : requirementsV1.1.cmd
 ## Képernyőképek
 
 Az alábbiakban láthatók a program képernyőképei, amelyek bemutatják, hogyan néz ki a felhasználói felület és a rendszerinformációk:
+requirementsV1.1.cmd:
+![image](https://github.com/user-attachments/assets/7c454f27-bd3d-4950-ab45-8a9305b56858)
 
-![Screenshot](assets/screenshot.png)
 
 ## Közreműködés
 
