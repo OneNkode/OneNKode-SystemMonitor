@@ -2,7 +2,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-first install : install_dependencies.py
+first run : requirementsV1.1.cmd 
 
 **NDXworks** egy egyszerű, de hatékony parancssori rendszerfigyelő alkalmazás, amely valós időben megjeleníti a rendszer erőforrásainak állapotát és statisztikáit. A programot Python nyelven írtuk, és a PyInstaller segítségével készült egy önálló végrehajtható fájl (.exe), amely Windows rendszeren futtatható.
 
@@ -37,25 +37,7 @@ first install : install_dependencies.py
 
 ### 7. Ikon és Verzió
 - Az alkalmazás ikont tartalmaz, amely az `assets/icon.ico` fájlban található.
-- A verziószám a kijelző tetején található (`V1.3`).
-
-## Telepítés és Használat
-
-1. **Python Telepítése**: 
-   - Bizonyosodj meg róla, hogy a Python 3.x telepítve van a rendszereden.
-
-2. **Szükséges Könyvtárak Telepítése**:
-   - Telepítsd a szükséges Python csomagokat a következő parancsok futtatásával:
-     ```bash
-     pip install psutil gputil colorama
-     ```
-
-3. **A Program Futtatása**:
-   - A program futtatásához egyszerűen indítsd el a létrehozott végrehajtható fájlt (`index.exe`), amelyet a PyInstaller készít.
-   - A program futtatása után a rendszerfigyelő információk valós időben frissülnek a parancssori felületen.
-
-4. **Forráskód és Hozzájárulás**:
-   - A teljes forráskód elérhető a GitHub oldalon. Ha szeretnél hozzájárulni a projekt fejlődéséhez vagy bugokat jelenteni, kérlek, nyiss egy [issue-t](https://github.com/username/ndxworks/issues) vagy egy [pull requestet](https://github.com/username/ndxworks/pulls).
+- A verziószám a kijelző tetején található (`V1.4`).
 
 ## Képernyőképek
 
