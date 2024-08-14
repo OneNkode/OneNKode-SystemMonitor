@@ -43,30 +43,23 @@ first run : requirementsV1.1.cmd
 
 Az alábbiakban láthatók a program képernyőképei, amelyek bemutatják, hogyan néz ki a felhasználói felület és a rendszerinformációk:
 requirementsV1.1.cmd:
+
+
+
 ![image](https://github.com/user-attachments/assets/7c454f27-bd3d-4950-ab45-8a9305b56858)
 
+the system monitor:
+
+
+
+
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/dac90874-12e8-4730-9f1c-7e14c3ccb4bb">
 
 ## Közreműködés
 
 Kérjük, olvasd el a [Hozzájárulási irányelvek](CONTRIBUTING.md) dokumentumot, ha szeretnél hozzájárulni a projekthez.
 
-## Licenc
-
-Ez a projekt az MIT Licenc alatt áll. További információkért lásd a [LICENSE](LICENSE) fájlt.
-
----
 
 Kérlek, ha bármilyen kérdésed van a program működésével vagy telepítésével kapcsolatban, ne habozz megkérdezni!
 
 
-### Szükséges könyvtárak
-
-A program futtatásához szükséges Python könyvtárak:
-- `psutil`: A rendszer erőforrásainak monitorozásához
-- `colorama`: Színes szöveg megjelenítéséhez a terminálban
-- `GPUtil`: GPU információk lekérdezéséhez
-
-Telepítheted ezeket a könyvtárakat a következő parancsokkal:
-
-```bash
-pip install psutil colorama GPUtil
